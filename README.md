@@ -2,7 +2,7 @@
 
 ## Project Title
 
-`assigmment_app`
+`Flutter Multi-Screen App`
 
 ## Student Information
 
@@ -27,6 +27,6 @@
 
 ![Subject Screen](screenshots/subject.PNG)
 
-### Validation Screen
+### Registration Validation
 
 ![Validation Screen](screenshots/validation.PNG)
